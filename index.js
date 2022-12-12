@@ -20,14 +20,14 @@ var questionList = [{
 },
 {
     Question: "What is my zodiac sign ?",
-    Answer: "Tauras"
+    Answer: "Taurus"
   },
   {
     Question: "What does my name mean ?",
     Answer: "World"
   },
 {
-  Question: " What is my nickname",
+  Question: " What is my nickname ?",
   Answer: "Kajju"
 },
 {
