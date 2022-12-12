@@ -6,21 +6,29 @@ var score = 0;
 
 var highScores = [{
   Name: "Shristy",
-  score: 3
+  score: 5
 },
 {
   Name: "Kshitij",
-  score: 2
+  score: 4
 },
 ]
 
 var questionList = [{
-  Question: "Where do i live ?",
-  Answer: "Kanpur"
+  Question: "What is my favorite series ?",
+  Answer: "Broken But Beautiful"
 },
 {
-  Question: " What is my hometown",
-  Answer: "Kanpur"
+    Question: "What is my zodiac sign ?",
+    Answer: "Tauras"
+  },
+  {
+    Question: "What does my name mean ?",
+    Answer: "World"
+  },
+{
+  Question: " What is my nickname",
+  Answer: "Kajju"
 },
 {
   Question: " where do i work ?",
